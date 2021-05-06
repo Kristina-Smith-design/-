@@ -1,4 +1,5 @@
-### УЧЕБНЫЕ ПРОГРАММЫ НА PYTHON С АВТОТЕСТАМИ ДЛЯ НИХ
+### УЧЕБНЫЕ ПРОГРАММЫ НА PYTHON С АВТОТЕСТАМИ ДЛЯ НИХ  
+[![Test](https://github.com/Kristina-Smith-design/ProgramSimple/actions/workflows/simple.yml/badge.svg)](https://github.com/Kristina-Smith-design/ProgramSimple/actions/workflows/simple.yml)
 
 ### ОПИСАНИЕ
 Репозиторий состоит из программ:
